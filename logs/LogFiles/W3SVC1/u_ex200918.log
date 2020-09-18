@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-09-18 06:27:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-09-18 06:27:38 192.168.1.47 GET / - 80 - 192.168.1.37 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/85.0.4183.102+Safari/537.36 - 200 0 0 2687
+2020-09-18 06:27:38 192.168.1.47 GET /pluginfile.php/2/theme_snap/vendorjs/snap-custom-elements/snap-ce.js - 80 - 192.168.1.37 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/85.0.4183.102+Safari/537.36 http://192.168.1.47/ 304 0 0 109
+2020-09-18 06:27:38 192.168.1.47 POST /lib/ajax/service.php sesskey=nX4Z0FAYsm&info=core_fetch_notifications 80 - 192.168.1.37 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/85.0.4183.102+Safari/537.36 http://192.168.1.47/ 200 0 0 154

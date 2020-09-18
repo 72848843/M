@@ -1,0 +1,13 @@
+{
+  "main.css": "@yield('content-viewer-url')/static/css/main.85153150.chunk.css",
+  "main.js": "@yield('content-viewer-url')/static/js/main.4de544aa.chunk.js",
+  "main.js.map": "@yield('content-viewer-url')/static/js/main.4de544aa.chunk.js.map",
+  "runtime~main.js": "@yield('content-viewer-url')/static/js/runtime~main.820278cc.js",
+  "runtime~main.js.map": "@yield('content-viewer-url')/static/js/runtime~main.820278cc.js.map",
+  "static/js/2.8353c72b.chunk.js": "@yield('content-viewer-url')/static/js/2.8353c72b.chunk.js",
+  "static/js/2.8353c72b.chunk.js.map": "@yield('content-viewer-url')/static/js/2.8353c72b.chunk.js.map",
+  "index.html": "@yield('content-viewer-url')/index.html",
+  "precache-manifest.b56d9fb26ee03e8589835dd500510d2d.js": "@yield('content-viewer-url')/precache-manifest.b56d9fb26ee03e8589835dd500510d2d.js",
+  "service-worker.js": "@yield('content-viewer-url')/service-worker.js",
+  "static/css/main.85153150.chunk.css.map": "@yield('content-viewer-url')/static/css/main.85153150.chunk.css.map"
+}

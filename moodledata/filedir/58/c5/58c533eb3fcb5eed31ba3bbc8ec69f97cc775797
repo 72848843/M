@@ -1,0 +1,22 @@
+self.__precacheManifest = [
+  {
+    "revision": "820278ccf71d2ca6c904",
+    "url": "@yield('content-viewer-url')/static/js/runtime~main.820278cc.js"
+  },
+  {
+    "revision": "4de544aa278d264b9d45",
+    "url": "@yield('content-viewer-url')/static/js/main.4de544aa.chunk.js"
+  },
+  {
+    "revision": "8353c72bcaa8565e601f",
+    "url": "@yield('content-viewer-url')/static/js/2.8353c72b.chunk.js"
+  },
+  {
+    "revision": "4de544aa278d264b9d45",
+    "url": "@yield('content-viewer-url')/static/css/main.85153150.chunk.css"
+  },
+  {
+    "revision": "6e63d1a61053ed88131be45314ef0ef4",
+    "url": "@yield('content-viewer-url')/index.html"
+  }
+];
